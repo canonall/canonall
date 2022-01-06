@@ -6,9 +6,9 @@ Currently, I am a master student in the field of Computer Science with the speci
 
 I will be publishing my applications [here](https://play.google.com/store/apps/developer?id=Can+Önal) ![image of google play](https://img.icons8.com/color-glass/24/000000/google-play.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canonall&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
-
 
 <!--
 **canonall/canonall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
