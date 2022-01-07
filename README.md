@@ -6,9 +6,18 @@ Currently, I am a master student in the field of Computer Science with the speci
 
 I will be publishing my applications [here](https://play.google.com/store/apps/developer?id=Can+Önal) ![image of google play](https://img.icons8.com/color-glass/24/000000/google-play.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canonall&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Contact me  
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canonal/)
 
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=canonall&show_icons=true&theme=radical&hide=prs,issues)
+
+Quote of the day:  
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+
+
+<!--![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canonall&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **canonall/canonall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
