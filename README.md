@@ -4,7 +4,7 @@
 I am Can and I am enthusiastic about Android Development with Kotlin ![image of android](https://img.icons8.com/color/24/000000/android-os.png) ![image of kotlin](https://img.icons8.com/color/24/000000/kotlin.png)
 Currently, I am a master student in the field of Computer Science with the specialization of software engineering at Technical University of Kaiserslautern👨‍🎓
 
-I will be publishing my applications [here](https://play.google.com/store/apps/developer?id=Can+Önal) ![image of google play](https://img.icons8.com/color-glass/24/000000/google-play.png)
+I will be publishing my applications [here](https://play.google.com/store/apps/developer?id=Can+Önal) ![image of google play](https://img.icons8.com/color-glass/24/000000/google-play.png). Don't forger to check out my [medium blog](https://medium.com/@onalcan) :memo:
 
 Contact me  
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canonal/)
