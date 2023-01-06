@@ -2,7 +2,7 @@
 ### Hello there ![Image of Obi-wan](https://emojis.slackmojis.com/emojis/images/1616449264/23394/kenobi.gif?1616449264)
 
 I am Can and I am enthusiastic about Android Development with Kotlin ![image of android](https://img.icons8.com/color/24/000000/android-os.png) ![image of kotlin](https://img.icons8.com/color/24/000000/kotlin.png)
-Currently, I am a master student in the field of Computer Science with the specialization of software engineering at Technical University of Kaiserslautern👨‍🎓 At the moment, I work as working-student at Liftric and exploring KMM and iOS.
+Currently, I am a master student in the field of Computer Science with the specialization of software engineering at Technical University of Kaiserslautern👨‍🎓 At the moment, I work as a mobile engineer(working student) at Liftric and exploring KMM and iOS in addition to Android framework.
 
 I will be publishing my applications [here](https://play.google.com/store/apps/developer?id=Can+Önal) ![image of google play](https://img.icons8.com/color-glass/24/000000/google-play.png). And don't forget to check out my [medium blog](https://medium.com/@onalcan) :memo:
 
